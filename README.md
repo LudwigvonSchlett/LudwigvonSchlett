@@ -1,4 +1,4 @@
-- Hi, I’m SENECHAL Louis @LudwigvonSchlett
+- Hi, I’m SENECHAL Louis
 - I’m currently studying for an engineering degree in computing and networking at the ENSISA
 - I speak French and English
 
